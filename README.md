@@ -19,5 +19,4 @@ Photo Editor: Photoshoop premium.
 ![GitHub metrics](https://metrics.lecoq.io/Ettokun)
 ## Social Media
 
-Instagram | [Click Here](https://instagram.com/choiril56)
-Paypal | [Click Here](https://paypal.me/ShiKashi)
+Paypal | [Click Here](https://paypal.me/alchoiril)
